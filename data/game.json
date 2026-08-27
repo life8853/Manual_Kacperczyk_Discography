@@ -3,5 +3,9 @@
   "game": "KacperczykDiscography",
   "creator": "life8853",
   "filler_item_name": "Cigarette",
-  "starting_items": []
+  "starting_items": [{
+      "item_categories": ["song_unlock"],
+      "random": 3
+    }
+  ]
 }
