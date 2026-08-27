@@ -1,1 +1,35 @@
-[]
+[
+    {
+        "name": "Sztuki piekne - Album Complete",
+        "copy_location": "Sztuki piekne - Album Complete",
+        "category": [
+            "Sztuki piekne",
+            "album_complete"
+        ]
+    },
+    {
+        "name": "Kryzys wieku wczesnego - Album Complete",
+        "copy_location": "Kryzys wieku wczesnego - Album Complete",
+        "category": [
+            "Kryzys wieku wczesnego",
+            "album_complete"
+        ]
+    },
+    {
+        "name": "Pokolenie Konca Swiata - Album Complete",
+        "copy_location": "Pokolenie Konca Swiata - Album Complete",
+        "category": [
+            "Pokolenie Konca Swiata",
+            "album_complete"
+        ]
+    },
+    {
+        "name": "Wszyscy jestesmy Kacperczyk - Album Complete",
+        "copy_location": "Wszyscy jestesmy Kacperczyk - Album Complete",
+        "category": [
+            "Wszyscy jestesmy Kacperczyk",
+            "album_complete"
+        ],
+        "requires": "|@Wszyscy jestesmy Kacperczyk:ALL|"
+    }
+]
