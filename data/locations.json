@@ -1,0 +1,419 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Sztuki piekne",
+      "category": [
+        "Sztuki piekne"
+      ],
+      "requires": "|Sztuki piekne|"
+    },
+    {
+      "name": "Iggy",
+      "category": [
+        "Sztuki piekne"
+      ],
+      "requires": "|Iggy|"
+    },
+    {
+      "name": "Chwile",
+      "category": [
+        "Sztuki piekne"
+      ],
+      "requires": "|Chwile|"
+    },
+    {
+      "name": "14.02",
+      "category": [
+        "Sztuki piekne"
+      ],
+      "requires": "|14.02|"
+    },
+    {
+      "name": "Jumbo Jet",
+      "category": [
+        "Sztuki piekne"
+      ],
+      "requires": "|Jumbo Jet|"
+    },
+    {
+      "name": "Kalejdoskop",
+      "category": [
+        "Sztuki piekne"
+      ],
+      "requires": "|Kalejdoskop|"
+    },
+    {
+      "name": "H4R1BO",
+      "category": [
+        "Sztuki piekne"
+      ],
+      "requires": "|H4R1BO|"
+    },
+    {
+      "name": "Nie wyjade",
+      "category": [
+        "Sztuki piekne"
+      ],
+      "requires": "|Nie wyjade|"
+    },
+    {
+      "name": "Blask",
+      "category": [
+        "Sztuki piekne"
+      ],
+      "requires": "|Blask|"
+    },
+    {
+      "name": "Beton",
+      "category": [
+        "Sztuki piekne"
+      ],
+      "requires": "|Beton|"
+    },
+    {
+      "name": "Zombie",
+      "category": [
+        "Sztuki piekne"
+      ],
+      "requires": "|Zombie|"
+    },
+    {
+      "name": "Zdjecia",
+      "category": [
+        "Sztuki piekne"
+      ],
+      "requires": "|Zdjecia|"
+    },
+    {
+      "name": "Sztuki piekne - Album Complete",
+      "category": [
+        "Sztuki piekne"
+      ],
+      "requires": "|@Sztuki piekne:ALL|",
+      "place_item": [
+        "Sztuki Piekne Complete Token"
+      ]
+    },
+    {
+      "name": "Kryzys Wieku Wczesnego",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|Kryzys Wieku Wczesnego|"
+    },
+    {
+      "name": "Artysta z ASP",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|Artysta z ASP|"
+    },
+    {
+      "name": "Cyrk",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|Cyrk|"
+    },
+    {
+      "name": "ANYWAY2005 (skit)",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|ANYWAY2005 (skit)|"
+    },
+    {
+      "name": "Brejdaki",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|Brejdaki|"
+    },
+    {
+      "name": "Ludzie piekni",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|Ludzie piekni|"
+    },
+    {
+      "name": "WARSAWDAY2013 (skit)",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|WARSAWDAY2013 (skit)|"
+    },
+    {
+      "name": "Znudzilo mi sie",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|Znudzilo mi sie|"
+    },
+    {
+      "name": "Sebiksy",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|Sebiksy|"
+    },
+    {
+      "name": "Dlugi",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|Dlugi|"
+    },
+    {
+      "name": "Ptaki (skit)",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|Ptaki (skit)|"
+    },
+    {
+      "name": "Niebieskie ptaki",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|Niebieskie ptaki|"
+    },
+    {
+      "name": "Nie wiem, co jest dobre, a co zle",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|Nie wiem, co jest dobre, a co zle|"
+    },
+    {
+      "name": "Po co sie smucic",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|Po co sie smucic|"
+    },
+    {
+      "name": "Kryzys wieku wczesnego - Album Complete",
+      "category": [
+        "Kryzys wieku wczesnego"
+      ],
+      "requires": "|@Kryzys wieku wczesnego:ALL|",
+      "place_item": [
+        "Kryzys wieku wczesnego Complete Token"
+      ]
+    },
+    {
+      "name": "Pokolenie Konca Swiata",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|Pokolenie Konca Swiata|"
+    },
+    {
+      "name": "Moje najlepsze lata",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|Moje najlepsze lata|"
+    },
+    {
+      "name": "Awionetki",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|Awionetki|"
+    },
+    {
+      "name": "Wstalem lewa noga",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|Wstalem lewa noga|"
+    },
+    {
+      "name": "Koniec Swiata 2 (Official Trailer)",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|Koniec Swiata 2 (Official Trailer)|"
+    },
+    {
+      "name": "Jakbym zjadl mentosy i popil je cola",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|Jakbym zjadl mentosy i popil je cola|"
+    },
+    {
+      "name": "Syn okiennika",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|Syn okiennika|"
+    },
+    {
+      "name": "Demony (prev)",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|Demony (prev)|"
+    },
+    {
+      "name": "Wtedy",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|Wtedy|"
+    },
+    {
+      "name": "Chodz, razem na chwile umrzemy",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|Chodz, razem na chwile umrzemy|"
+    },
+    {
+      "name": "Powroty (skit)",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|Powroty (skit)|"
+    },
+    {
+      "name": "Manekin",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|Manekin|"
+    },
+    {
+      "name": "Pan od muzyki",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|Pan od muzyki|"
+    },
+    {
+      "name": "Pokolenie Konca Swiata - Album Complete",
+      "category": [
+        "Pokolenie Konca Swiata"
+      ],
+      "requires": "|@Pokolenie Konca Swiata:ALL|",
+      "place_item": [
+        "Pokolenie Konca Swiata Complete Token"
+      ]
+    },
+    {
+      "name": "Wszyscy jestesmy Kacperczyk",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|Wszyscy jestesmy Kacperczyk|"
+    },
+    {
+      "name": "Polski bus",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|Polski bus|"
+    },
+    {
+      "name": "Srodmiescie Poludniowe",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|Srodmiescie Poludniowe|"
+    },
+    {
+      "name": "Mam talent",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|Mam talent|"
+    },
+    {
+      "name": "Gdzie trafia milosc, gdy umiera",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|Gdzie trafia milosc, gdy umiera|"
+    },
+    {
+      "name": "Mamony milion",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|Mamony milion|"
+    },
+    {
+      "name": "Moja wina",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|Moja wina|"
+    },
+    {
+      "name": "Braciaki dwa",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|Braciaki dwa|"
+    },
+    {
+      "name": "Intro do przyszlosci",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|Intro do przyszlosci|"
+    },
+    {
+      "name": "List do M (17.10.2045)",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|List do M (17.10.2045)|"
+    },
+    {
+      "name": "Wiatr",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|Wiatr|"
+    },
+    {
+      "name": "Nic nie jest na zawsze",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|Nic nie jest na zawsze|"
+    },
+    {
+      "name": "Demony (Final)",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|Demony (Final)|"
+    },
+    {
+      "name": "Wszyscy jestesmy Kacperczyk - Album Complete",
+      "category": [
+        "Wszyscy jestesmy Kacperczyk"
+      ],
+      "requires": "|@Wszyscy jestesmy Kacperczyk:ALL|"
+    },
+    {
+      "name": "Nieprzespane noce",
+      "category": [
+        "Bonus Track"
+      ],
+      "requires": "|Nieprzespane noce|"
+    },
+    {
+      "name": "Victory",
+      "victory": true,
+      "category": [],
+      "requires": ""
+    }
+  ]
+}
