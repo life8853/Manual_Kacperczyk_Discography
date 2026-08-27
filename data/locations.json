@@ -90,10 +90,7 @@
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|@Sztuki piekne:ALL|",
-      "place_item": [
-        "Sztuki piekne Complete Token"
-      ]
+      "requires": "|@Sztuki piekne:ALL|"
     },
     {
       "name": "Kryzys Wieku Wczesnego",
@@ -198,10 +195,7 @@
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|@Kryzys wieku wczesnego:ALL|",
-      "place_item": [
-        "Kryzys wieku wczesnego Complete Token"
-      ]
+      "requires": "|@Kryzys wieku wczesnego:ALL|"
     },
     {
       "name": "Pokolenie Konca Swiata",
@@ -299,10 +293,7 @@
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|@Pokolenie Konca Swiata:ALL|",
-      "place_item": [
-        "Pokolenie Konca Swiata Complete Token"
-      ]
+      "requires": "|@Pokolenie Konca Swiata:ALL|"
     },
     {
       "name": "Wszyscy jestesmy Kacperczyk",
@@ -413,7 +404,7 @@
       "name": "Victory",
       "victory": true,
       "category": [],
-      "requires": ""
+      "requires": "{OptionCount(@album_complete, required_number_of_albums)}"
     }
   ]
 }

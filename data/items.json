@@ -477,38 +477,6 @@
         "song_unlock"
       ],
       "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Sztuki piekne Complete Token",
-      "category": [
-        "Complete Token"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Kryzys wieku wczesnego Complete Token",
-      "category": [
-        "Complete Token"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Pokolenie Konca Swiata Complete Token",
-      "category": [
-        "Complete Token"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Wszyscy jestesmy Kacperczyk Complete Token",
-      "category": [
-        "Complete Token"
-      ],
-      "progression": true
     }
   ]
 }
