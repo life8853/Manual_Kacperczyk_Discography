@@ -6,392 +6,448 @@
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|Sztuki piekne|"
+      "requires": "|Sztuki piekne|",
+      "sort-key": "0-0"
     },
     {
       "name": "Iggy",
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|Iggy|"
+      "requires": "|Iggy|",
+      "sort-key": "0-1"
     },
     {
       "name": "Chwile",
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|Chwile|"
+      "requires": "|Chwile|",
+      "sort-key": "0-2"
     },
     {
       "name": "14.02",
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|14.02|"
+      "requires": "|14.02|",
+      "sort-key": "0-3"
     },
     {
       "name": "Jumbo Jet",
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|Jumbo Jet|"
+      "requires": "|Jumbo Jet|",
+      "sort-key": "0-4"
     },
     {
       "name": "Kalejdoskop",
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|Kalejdoskop|"
+      "requires": "|Kalejdoskop|",
+      "sort-key": "0-5"
     },
     {
       "name": "H4R1BO",
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|H4R1BO|"
+      "requires": "|H4R1BO|",
+      "sort-key": "0-6"
     },
     {
       "name": "Nie wyjade",
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|Nie wyjade|"
+      "requires": "|Nie wyjade|",
+      "sort-key": "0-7"
     },
     {
       "name": "Blask",
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|Blask|"
+      "requires": "|Blask|",
+      "sort-key": "0-8"
     },
     {
       "name": "Beton",
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|Beton|"
+      "requires": "|Beton|",
+      "sort-key": "0-9"
     },
     {
       "name": "Zombie",
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|Zombie|"
+      "requires": "|Zombie|",
+      "sort-key": "1-0"
     },
     {
       "name": "Zdjecia",
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|Zdjecia|"
+      "requires": "|Zdjecia|",
+      "sort-key": "1-1"
     },
     {
       "name": "Sztuki piekne - Album Complete",
       "category": [
         "Sztuki piekne"
       ],
-      "requires": "|@Sztuki piekne:ALL|"
+      "requires": "|@Sztuki piekne:ALL|",
+      "sort-key": "1-2"
     },
     {
       "name": "Kryzys Wieku Wczesnego",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|Kryzys Wieku Wczesnego|"
+      "requires": "|Kryzys Wieku Wczesnego|",
+      "sort-key": "0-0"
     },
     {
       "name": "Artysta z ASP",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|Artysta z ASP|"
+      "requires": "|Artysta z ASP|",
+      "sort-key": "0-1"
     },
     {
       "name": "Cyrk",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|Cyrk|"
+      "requires": "|Cyrk|",
+      "sort-key": "0-2"
     },
     {
       "name": "ANYWAY2005 (skit)",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|ANYWAY2005 (skit)|"
+      "requires": "|ANYWAY2005 (skit)|",
+      "sort-key": "0-3"
     },
     {
       "name": "Brejdaki",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|Brejdaki|"
+      "requires": "|Brejdaki|",
+      "sort-key": "0-4"
     },
     {
       "name": "Ludzie piekni",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|Ludzie piekni|"
+      "requires": "|Ludzie piekni|",
+      "sort-key": "0-5"
     },
     {
       "name": "WARSAWDAY2013 (skit)",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|WARSAWDAY2013 (skit)|"
+      "requires": "|WARSAWDAY2013 (skit)|",
+      "sort-key": "0-6"
     },
     {
       "name": "Znudzilo mi sie",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|Znudzilo mi sie|"
+      "requires": "|Znudzilo mi sie|",
+      "sort-key": "0-7"
     },
     {
       "name": "Sebiksy",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|Sebiksy|"
+      "requires": "|Sebiksy|",
+      "sort-key": "0-8"
     },
     {
       "name": "Dlugi",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|Dlugi|"
+      "requires": "|Dlugi|",
+      "sort-key": "0-9"
     },
     {
       "name": "Ptaki (skit)",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|Ptaki (skit)|"
+      "requires": "|Ptaki (skit)|",
+      "sort-key": "1-0"
     },
     {
       "name": "Niebieskie ptaki",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|Niebieskie ptaki|"
+      "requires": "|Niebieskie ptaki|",
+      "sort-key": "1-1"
     },
     {
       "name": "Nie wiem, co jest dobre, a co zle",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|Nie wiem, co jest dobre, a co zle|"
+      "requires": "|Nie wiem, co jest dobre, a co zle|",
+      "sort-key": "1-2"
     },
     {
       "name": "Po co sie smucic",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|Po co sie smucic|"
+      "requires": "|Po co sie smucic|",
+      "sort-key": "1-3"
     },
     {
       "name": "Kryzys wieku wczesnego - Album Complete",
       "category": [
         "Kryzys wieku wczesnego"
       ],
-      "requires": "|@Kryzys wieku wczesnego:ALL|"
+      "requires": "|@Kryzys wieku wczesnego:ALL|",
+      "sort-key": "1-4"
     },
     {
       "name": "Pokolenie Konca Swiata",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|Pokolenie Konca Swiata|"
+      "requires": "|Pokolenie Konca Swiata|",
+      "sort-key": "0-0"
     },
     {
       "name": "Moje najlepsze lata",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|Moje najlepsze lata|"
+      "requires": "|Moje najlepsze lata|",
+      "sort-key": "0-1"
     },
     {
       "name": "Awionetki",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|Awionetki|"
+      "requires": "|Awionetki|",
+      "sort-key": "0-2"
     },
     {
       "name": "Wstalem lewa noga",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|Wstalem lewa noga|"
+      "requires": "|Wstalem lewa noga|",
+      "sort-key": "0-3"
     },
     {
       "name": "Koniec Swiata 2 (Official Trailer)",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|Koniec Swiata 2 (Official Trailer)|"
+      "requires": "|Koniec Swiata 2 (Official Trailer)|",
+      "sort-key": "0-4"
     },
     {
       "name": "Jakbym zjadl mentosy i popil je cola",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|Jakbym zjadl mentosy i popil je cola|"
+      "requires": "|Jakbym zjadl mentosy i popil je cola|",
+      "sort-key": "0-5"
     },
     {
       "name": "Syn okiennika",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|Syn okiennika|"
+      "requires": "|Syn okiennika|",
+      "sort-key": "0-6"
     },
     {
       "name": "Demony (prev)",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|Demony (prev)|"
+      "requires": "|Demony (prev)|",
+      "sort-key": "0-7"
     },
     {
       "name": "Wtedy",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|Wtedy|"
+      "requires": "|Wtedy|",
+      "sort-key": "0-8"
     },
     {
       "name": "Chodz, razem na chwile umrzemy",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|Chodz, razem na chwile umrzemy|"
+      "requires": "|Chodz, razem na chwile umrzemy|",
+      "sort-key": "0-9"
     },
     {
       "name": "Powroty (skit)",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|Powroty (skit)|"
+      "requires": "|Powroty (skit)|",
+      "sort-key": "1-0"
     },
     {
       "name": "Manekin",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|Manekin|"
+      "requires": "|Manekin|",
+      "sort-key": "1-1"
     },
     {
       "name": "Pan od muzyki",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|Pan od muzyki|"
+      "requires": "|Pan od muzyki|",
+      "sort-key": "1-2"
     },
     {
       "name": "Pokolenie Konca Swiata - Album Complete",
       "category": [
         "Pokolenie Konca Swiata"
       ],
-      "requires": "|@Pokolenie Konca Swiata:ALL|"
+      "requires": "|@Pokolenie Konca Swiata:ALL|",
+      "sort-key": "1-3"
     },
     {
       "name": "Wszyscy jestesmy Kacperczyk",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|Wszyscy jestesmy Kacperczyk|"
+      "requires": "|Wszyscy jestesmy Kacperczyk|",
+      "sort-key": "0-0"
     },
     {
       "name": "Polski bus",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|Polski bus|"
+      "requires": "|Polski bus|",
+      "sort-key": "0-1"
     },
     {
       "name": "Srodmiescie Poludniowe",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|Srodmiescie Poludniowe|"
+      "requires": "|Srodmiescie Poludniowe|",
+      "sort-key": "0-2"
     },
     {
       "name": "Mam talent",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|Mam talent|"
+      "requires": "|Mam talent|",
+      "sort-key": "0-3"
     },
     {
       "name": "Gdzie trafia milosc, gdy umiera",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|Gdzie trafia milosc, gdy umiera|"
+      "requires": "|Gdzie trafia milosc, gdy umiera|",
+      "sort-key": "0-4"
     },
     {
       "name": "Mamony milion",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|Mamony milion|"
+      "requires": "|Mamony milion|",
+      "sort-key": "0-5"
     },
     {
       "name": "Moja wina",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|Moja wina|"
+      "requires": "|Moja wina|",
+      "sort-key": "0-6"
     },
     {
       "name": "Braciaki dwa",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|Braciaki dwa|"
+      "requires": "|Braciaki dwa|",
+      "sort-key": "0-7"
     },
     {
       "name": "Intro do przyszlosci",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|Intro do przyszlosci|"
+      "requires": "|Intro do przyszlosci|",
+      "sort-key": "0-8"
     },
     {
       "name": "List do M (17.10.2045)",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|List do M (17.10.2045)|"
+      "requires": "|List do M (17.10.2045)|",
+      "sort-key": "0-9"
     },
     {
       "name": "Wiatr",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|Wiatr|"
+      "requires": "|Wiatr|",
+      "sort-key": "1-0"
     },
     {
       "name": "Nic nie jest na zawsze",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|Nic nie jest na zawsze|"
+      "requires": "|Nic nie jest na zawsze|",
+      "sort-key": "1-1"
     },
     {
       "name": "Demony (Final)",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|Demony (Final)|"
+      "requires": "|Demony (Final)|",
+      "sort-key": "1-2"
     },
     {
       "name": "Wszyscy jestesmy Kacperczyk - Album Complete",
       "category": [
         "Wszyscy jestesmy Kacperczyk"
       ],
-      "requires": "|@Wszyscy jestesmy Kacperczyk:ALL|"
+      "requires": "|@Wszyscy jestesmy Kacperczyk:ALL|",
+      "sort-key": "1-3"
     },
     {
       "name": "Nieprzespane noce",
@@ -403,7 +459,7 @@
     {
       "name": "Victory",
       "victory": true,
-      "category": [],
+      "category": ["Goals"],
       "requires": "{OptionCount(@album_complete, required_number_of_albums)}"
     }
   ]
