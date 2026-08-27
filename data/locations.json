@@ -447,14 +447,16 @@
         "Wszyscy jestesmy Kacperczyk"
       ],
       "requires": "|@Wszyscy jestesmy Kacperczyk:ALL|",
-      "sort-key": "1-3"
+      "sort-key": "2-0"
     },
     {
       "name": "Nieprzespane noce",
       "category": [
-        "Bonus Track"
+        "Wszyscy jestesmy Kacperczyk",
+        "bonus_track"
       ],
-      "requires": "|Nieprzespane noce|"
+      "requires": "|Nieprzespane noce|",
+      "sort-key": "1-3"
     },
     {
       "name": "Victory",

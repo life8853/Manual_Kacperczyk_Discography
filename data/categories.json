@@ -1,5 +1,10 @@
 {
     "song_unlock": {
         "hidden": true
+    },
+    
+    "bonus_track": {
+        "hidden": true,
+        "yaml_option": ["include_bonus_songs"]
     }
 }

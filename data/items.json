@@ -473,7 +473,8 @@
       "count": 1,
       "name": "Nieprzespane noce",
       "category": [
-        "Bonus Track",
+        "Wszyscy jestesmy Kacperczyk",
+        "bonus_track",
         "song_unlock"
       ],
       "progression": true

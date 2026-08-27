@@ -31,6 +31,15 @@
             "default": 3,
             "range_end": 4,
             "display_name": "Required number of albums"
+        },
+        "include_bonus_songs":{
+            "type": "Toggle",
+            "description": [
+                "Include bonus (CD-only) songs",
+                "Adds 1 check"
+            ],
+            "default": true,
+            "display_name": "Include bonus songs"
         }
     }
 
